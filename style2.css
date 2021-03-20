@@ -1,6 +1,19 @@
 body{
   background-color: lightgreen;
+  color: black
 }
+@media screen and (max-width:900px){
+ body{ 
+ background-color: #F16F6F;
+ color: white;
+  }
+ }
+@media screen and (max-width:500px){
+ body{ 
+ background-color: #8A5114;
+ color: white;
+  }
+ }
 input[type=text]{
   width:100%;
   padding: 15px 30px;
