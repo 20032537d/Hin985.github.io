@@ -26,10 +26,6 @@ ol.a{
 ul.b{
  list-style-type: square; 
 }
-img{
-  max-width: 100%;
-  height: auto;
-}
 p.personal{
  border-style: solid; 
 }
