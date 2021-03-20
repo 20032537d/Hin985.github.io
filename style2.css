@@ -37,7 +37,7 @@ textarea{
 }
 input[type=submit],input[type=reset]{
   background-color: #433F7C;
-  color: #F019A8;
+  color: white;
   padding: 15px 100px;
   text-decoration: wavy underline;
   cursor: pointer;
