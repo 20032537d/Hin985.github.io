@@ -20,3 +20,9 @@ table, th, td {
 .lessons5{
  background-color: purple; 
 }
+ol.a{
+ list-style-type: circle;
+}
+ul.b{
+ list-style-type: square; 
+}
