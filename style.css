@@ -35,3 +35,6 @@ p.personal{
 .introduction{
  color:red; 
 }
+img {
+  -webkit-box-reflect: right;
+}
