@@ -5,6 +5,18 @@ table, th, td {
   border: 1px solid red;
   border-collapse: collapse;
 }
-.lessons{
+.lessons1{
  background-color: yellow; 
+}
+.lessons2{
+ background-color: orange; 
+}
+.lessons3{
+ background-color: lightgreen; 
+}
+.lessons4{
+ background-color: lightred; 
+}
+.lessons5{
+ background-color: lightpurple; 
 }
