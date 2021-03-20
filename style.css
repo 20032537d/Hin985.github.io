@@ -32,3 +32,6 @@ p.personal{
 .center{
  margin: auto;
 }
+p + a{
+ color:red; 
+}
