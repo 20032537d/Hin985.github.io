@@ -21,3 +21,9 @@ textarea{
   font-size: 12px;
   resize: none;
 }
+input[type=submit],input[type=reset]{
+  background-color: #433F7C;
+  color: #F019A8;
+  text-decoration: wavy underline;
+  cursor: pointer;
+}
