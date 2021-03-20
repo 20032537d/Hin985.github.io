@@ -33,6 +33,7 @@ textarea{
   background-color: #DFDDF6;
   font-size: 12px;
   resize: none;
+  word-break: keep-all;
 }
 input[type=submit],input[type=reset]{
   background-color: #433F7C;
