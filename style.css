@@ -33,3 +33,6 @@ img{
 p.personal{
  border-style: solid; 
 }
+.center{
+ margin: auto;
+}
