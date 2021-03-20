@@ -1,5 +1,6 @@
 body{
   background-color: lightgreen;
+  color:blue;
 }
 input[type=text]{
   width:100%;
