@@ -10,3 +10,13 @@ input[type=text]{
   background-color: orange;
   color: white;
 }
+textarea{
+ width:50%;
+ height: 250px;
+ box-sizing: border-box;
+ border:2px dashed green;
+  border-radius: 20px;
+  background-color: lightgreen;
+  font-size: 12px;
+  resize: none;
+}
