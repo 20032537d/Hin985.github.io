@@ -32,6 +32,6 @@ p.personal{
 .center{
  text-align: center;
 }
-p > a{
+.introduction{
  color:red; 
 }
