@@ -30,8 +30,8 @@ p.personal{
  border-style: solid; 
 }
 .center{
- margin: auto;
+ text-align: center;
 }
-p + a{
+p > a{
  color:red; 
 }
